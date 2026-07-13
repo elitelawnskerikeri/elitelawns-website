@@ -1,0 +1,8 @@
+{
+  "name":"Elite Lawns & Landscaping",
+  "short_name":"Elite Lawns",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#0b2a18",
+  "theme_color":"#8CC63E"
+}
